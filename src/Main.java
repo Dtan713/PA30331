@@ -9,7 +9,8 @@ public class Solution {
         String A=sc.next(hello);
         String B=sc.next(java);
         /* Enter your code here. Print output to STDOUT. */
-        System.out.println("new Scanner");
+        System.out.println("String: " +A);
+        System.out.println("String: " +B);
 
     }
 }
